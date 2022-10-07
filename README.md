@@ -4,7 +4,7 @@
 * clone repo
 * import [csv](./__DB-setup) files to MySQL database
   * create .env file in server folder with JWT token + DB connection
-    ```
+  ```
     DB_NAME
     DB_HOSTNAME
     DB_USERNAME
