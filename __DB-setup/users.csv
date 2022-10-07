@@ -1,0 +1,12 @@
+id,email,password,name
+6,basile@mail.com,$2b$10$U3DBfQ7D/06.3EJR7W5VSu/p7JjsdfPaFzcRblyuwo2Q9/gDgOFAG,Kevin
+7,no@friend.com,$2b$10$09FDxVT6Dg36aqFLN2eb3edd9oC32.vbpkO/s5lZAPLihgneWr.GS,Alone
+8,jane@mail.com,$2b$10$qSTYAnt3IYz0CRccdYcQ2e3kmsBzNVCsq27hO1r.LeLP5NgaqDI9O,Jane
+9,jon@mail.com,$2b$10$LE3gKEeqK7YHrvOrM5fNFuaIJzRqbqFu3zhHVH2rbnBLP27Ki1C32,Jon
+10,doe@mail.com,$2b$10$iMWXF0yv.yY8QOjVNPhUW.S14mTpsyEXT5EopALvgmyBAEyxdMwZu,Doe
+11,duck@mail.com,$2b$13$RAA03FFH5Du5BXNcB8bYeOUXRVlUZqGdBYSSEdfipAql2jSBiC4qa,Duck
+12,donald@mail.com,$2b$13$m6fhgVzGr7cR1iV1J4DgjeElbj0a7Pj8pLQvejDaHEeibJmP5jLwu,Donald
+13,jerry@mail.com,$2b$13$wIgAqSoVv7G2e2sLAQn9cexHfiUVNoNFH7cJtxdtS/k9ovxIJjswm,Jerry
+14,tom@mail.com,$2b$13$XsBqdv4BjDL7R./BGW2eTetHKW56i8iN4eEZTGeZN1Hf.Weojuugm,Tom
+18,basile@leroy.com,$2b$13$X5mhi50lpeAsNXJ5jxBGu.ARIVrHy5YWt/lgqLesm.7XO20I6RpZS,Basile
+19,goofy@mail.com,$2b$13$PGYZOrjFU.AZNQcE1x44OO/aTxEdgrj/6jrGyKPT3/ux/mBZuVw26,Goofy
