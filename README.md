@@ -10,7 +10,7 @@
     DB_USERNAME
     DB_PASSWORD
   
-    JWT_ACCESS_TOKEN
+    JWT_ACCESS_TOKEN (random string of characters)
     JWT_REFRESH_TOKEN (unused)
   ```
 
