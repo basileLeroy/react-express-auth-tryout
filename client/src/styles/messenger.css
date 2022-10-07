@@ -1,0 +1,20 @@
+#messenger-content {
+    display: flex;
+    flex-direction: row;
+    max-width: 1030px;
+    background-color: lightblue;
+    padding: 1.5rem;
+}
+
+#messenger-content #chat-rooms {
+    gap: 15px;
+    width: 20%;
+    background-color: #61dafb;
+    padding: 0.5rem;
+}
+#messenger-content #chat-window {
+    width: 100%;
+    background-color: whitesmoke;
+    padding: 0.5rem;
+    justify-content: left;
+}
